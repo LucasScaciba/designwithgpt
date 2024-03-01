@@ -1,0 +1,24 @@
+Escolha um domínio problemático do qual você tenha algum conhecimento: 
+
+Identifique uma questão bastante estreita nesse domínio.
+
+Faça a pergunta de uma ou mais ferramentas de IA.
+
+Use o pensamento crítico para avaliar as respostas (é aqui que entra o seu conhecimento de domínio existente).
+
+Use outras fontes para verificar as respostas da IA. Uma pesquisa na web geralmente é um bom lugar para começar.
+
+Resuma suas descobertas para o seu portfólio e compartilhe com o grupo de discussão.
+
+
+Desk Research with GPT
+
+Definição do Tema/Problema: Licenciamento de softwares nos setores de Design em empresas diversas
+
+ChatGPT, por que você acha que muitas empresas com times de Designers ainda trabalham sem softwares licenciados?
+
+## Resposta chat GPT ##
+
+Estou curioso pra saber mais sobre o tópico de Fiscalização, você poderia me dizer como funciona e quais são as instituições responsáveis por isso?
+
+
